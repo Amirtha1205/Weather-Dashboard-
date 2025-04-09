@@ -1,3 +1,4 @@
+javascript 
 const apiKey='https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}'; // Replace this with your OpenWeather API key
 
 async function getWeather() {
